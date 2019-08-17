@@ -1,0 +1,10 @@
+body{
+	margin:0;
+	padding:0;
+	background-color: #cd1435;
+}
+
+.top-nav{
+	height:60px;
+	font:12px/1.2 "Helvetica Neue",Helvetica,Arial,"Microsoft Yahei","Hiragino Sans GB","Heiti SC","WenQuanYi Micro Hei","sans-serif";
+}
