@@ -8,3 +8,14 @@ body{
 	height:60px;
 	font:12px/1.2 "Helvetica Neue",Helvetica,Arial,"Microsoft Yahei","Hiragino Sans GB","Heiti SC","WenQuanYi Micro Hei","sans-serif";
 }
+
+.top-nav ul{
+	list-style-type: none;
+	color:rgb(252, 252, 250);
+	font-size:18px;
+	padding: 20px 10px 0;
+}
+
+top-nav ul li{
+	float:left;
+}
